@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.text{
+  color: #116889;
+  font-family: 'Roboto', sans-serif;
+}
