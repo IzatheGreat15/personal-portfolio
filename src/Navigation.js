@@ -3,7 +3,7 @@ import logo from './logo.png';
 function Navigation() {
     return (
       <>
-        <Navbar bg="white" expand="lg">
+        <Navbar bg="white" expand="lg" sticky='top'>
           <Container fluid>
             <Navbar.Brand href="#home">
               <img
