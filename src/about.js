@@ -10,11 +10,7 @@ function About() {
           </h1>
 
           <p className='reveal'>
-          Hi! I am a Computer Science student based on the Philippines. 
-          I am an aspiring full-stack developer. 
-          I believe in creating impact through technology.
-          I am mostly interested in web and mobile development, algorithms, UX/UI design and many more!
-          I am open to work freelance, contact me so we can talk further.
+          I am a highly motivated Full-Stack Developer specializing in PHP with Laravel and JavaScript with React.js. Constantly striving to stay at the forefront of the industry, I am dedicated to continuous learning and personal growth. In addition to my expertise in PHP and JavaScript, I have a strong interest in Mobile and Software Development, as well as UX/UI design. I thoroughly enjoy solving problems that require algorithmic thinking and believe that technology holds immense potential to make a positive impact on the world. With my passion for creating innovative solutions and my commitment to staying current with industry advancements, I am eager to contribute to transformative projects that shape the future.
           </p>
 
           <br></br>
